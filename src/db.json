@@ -1,0 +1,49 @@
+{
+  "sessions": [
+    {
+      "id": 1,
+      "subject": "React",
+      "duration": 2,
+      "mood": "focused",
+      "notes": "Practiced React hooks and state management.",
+      "status": "completed",
+      "date": "2025-10-21T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "subject": "Python",
+      "duration": 1.5,
+      "mood": "motivated",
+      "notes": "Worked on a mini data project.",
+      "status": "in-progress",
+      "date": "2025-10-20T15:30:00Z"
+    },
+    {
+      "id": 3,
+      "subject": "Mathematics",
+      "duration": 3,
+      "mood": "tired",
+      "notes": "Focused on algebra and probability revision.",
+      "status": "completed",
+      "date": "2025-10-19T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "subject": "Business Studies",
+      "duration": 1,
+      "mood": "focused",
+      "notes": "Studied entrepreneurship topic.",
+      "status": "in-progress",
+      "date": "2025-10-18T18:45:00Z"
+    },
+    {
+      "id": 5,
+      "subject": "History",
+      "duration": 2,
+      "mood": "distracted",
+      "notes": "Read about World War II events.",
+      "status": "completed",
+      "date": "2025-10-17T12:00:00Z"
+    }
+  ]
+}
