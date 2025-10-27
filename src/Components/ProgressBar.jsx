@@ -7,3 +7,4 @@ function ProgressBar({ progress }) {
 }
 
 export default ProgressBar;
+
